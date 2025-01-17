@@ -27,5 +27,3 @@ Was wäre ein geeignetes Projekt für diese LP7? Würde sich dieses auch eignen,
 - [ ] Anpassung am Ping Game, die Schnelligkeit des Balls soll alle 10 Sekunden schneller werden
 - [ ] Anpassung am Ping Game, das Game soll nach erreichen der 10 Punkte eines Spielers entweder ein Overlay bekommen oder direkt neu starten.
 - [ ] To-Do-Liste zweite Option implementieren, die wäre eine Aufgabe zu bearbeiten
-
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen

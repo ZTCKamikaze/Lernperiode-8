@@ -16,7 +16,7 @@ Was wäre ein geeignetes Projekt für diese LP7? Würde sich dieses auch eignen,
 
 ## 17.01.2025
 - [ ] Anpassungen an Ping Game auf Webseite (Speed, Nach 10 Punkten aufhören...)
-- [ ] Pyton To do List für Hausaufgaben oder sonstige Aufgaben planen
+- [X] Pyton To do List für Hausaufgaben oder sonstige Aufgaben planen
 - [X] Python mit Mathematik spielen (rechnen mit Python und Variabeln)
 - [X] LB450 arbeiten da ich hintendrein bin
 

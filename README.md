@@ -17,7 +17,10 @@ Was wäre ein geeignetes Projekt für diese LP7? Würde sich dieses auch eignen,
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
 17.01.2025
-- [ ] ...
+- [ ] Anpassungen an Ping Game auf Webseite (Speed, Nach 10 Punkten aufhören...)
+- [ ] Pyton To do List für Hausaufgaben oder sonstige Aufgaben planen
+- [ ] Python mit Mathematik spielen (rechnen mit Python und Variabeln)
+- [ ] LB450 arbeiten da ich hintendrein bin
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen

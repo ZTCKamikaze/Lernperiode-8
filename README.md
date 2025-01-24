@@ -24,6 +24,6 @@ Was wäre ein geeignetes Projekt für diese LP7? Würde sich dieses auch eignen,
 
 ## 24.01.2025
 - [ ] Python To-Do Liste interaktion mit dem User implementieren, er soll zwischen den Verschienden Optionen des Programm auswählen können und das Programm soll auf jede Option eine Antwort geben.
-- [ ] Anpassung am Ping Game, die Schnelligkeit des Balls soll alle 10 Sekunden schneller werden
-- [ ] Anpassung am Ping Game, das Game soll nach erreichen der 10 Punkte eines Spielers entweder ein Overlay bekommen oder direkt neu starten.
+- [X] Anpassung am Ping Game, die Schnelligkeit des Balls soll alle 10 Sekunden schneller werden
+- [X] Anpassung am Ping Game, das Game soll nach erreichen der 10 Punkte eines Spielers entweder ein Overlay bekommen oder direkt neu starten.
 - [ ] To-Do-Liste zweite Option implementieren, die wäre eine Aufgabe zu bearbeiten

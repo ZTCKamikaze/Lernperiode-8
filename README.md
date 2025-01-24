@@ -27,3 +27,10 @@ Was wäre ein geeignetes Projekt für diese LP7? Würde sich dieses auch eignen,
 - [X] Anpassung am Ping Game, die Schnelligkeit des Balls soll alle 10 Sekunden schneller werden
 - [X] Anpassung am Ping Game, das Game soll nach erreichen der 10 Punkte eines Spielers entweder ein Overlay bekommen oder direkt neu starten.
 - [ ] To-Do-Liste zweite Option implementieren, die wäre eine Aufgabe zu bearbeiten
+
+✍️ Heute habe ich die Anpassungen vom Spiel Pong auf meiner Gaming Webseite vorgenommen, und dazu noch ein wenig an meiner To-Do-Liste weitergearbeitet, ich kann eine Task hinzufügen, doch leider habe ich ein Problem mit dem Anezigen aller Aufgaben, das wird eines meiner nächsten Arbeitspakete sein. (45 Wörter)
+
+## 31.01.2025
+- [ ] To-Do-Liste alle Aufgaben anzeigen lassen
+- [ ] To-Do-Liste bearbeitungs Option implementieren
+- [ ] In der LB von M295 arbeiten und zwar Mein Backend fertig implementieren

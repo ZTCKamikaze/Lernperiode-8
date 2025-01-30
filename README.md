@@ -31,6 +31,6 @@ Was wäre ein geeignetes Projekt für diese LP7? Würde sich dieses auch eignen,
 ✍️ Heute habe ich die Anpassungen vom Spiel Pong auf meiner Gaming Webseite vorgenommen, und dazu noch ein wenig an meiner To-Do-Liste weitergearbeitet, ich kann eine Task hinzufügen, doch leider habe ich ein Problem mit dem Anezigen aller Aufgaben, das wird eines meiner nächsten Arbeitspakete sein. (45 Wörter)
 
 ## 31.01.2025
-- [ ] To-Do-Liste alle Aufgaben anzeigen lassen
+- [X] To-Do-Liste alle Aufgaben anzeigen lassen
 - [ ] To-Do-Liste bearbeitungs Option implementieren
 - [ ] In der LB von M295 arbeiten und zwar Mein Backend fertig implementieren

@@ -35,4 +35,9 @@ Was wäre ein geeignetes Projekt für diese LP7? Würde sich dieses auch eignen,
 - [X] To-Do-Liste bearbeitungs Option implementieren
 - [ ] In der LB von M295 arbeiten und zwar Mein Backend fertig implementieren
 
-✍️ Heute habe ich an meiner To-Do-Liste weitergearbeitet, und zwar habe ich die Funktion alle Tasks zu sehen hinzugefügt, dazu habe ich auch noch die Option hinzugefügt, wie ich eine Aufgabe bearbeiten kann. Danach habe ich angefangen an meiner LB weiterzuarbeiten, ich woltle mein Backend fertig machen, jedoch habe ich es ein wenig unterschätzt, denn ich habe es nicht fertig geschafft. (60 Wörter)
+✍️ Heute habe ich an meiner To-Do-Liste weitergearbeitet, und zwar habe ich die Funktion alle Tasks zu sehen hinzugefügt, dazu habe ich auch noch die Option hinzugefügt, wie ich eine Aufgabe bearbeiten kann. Danach habe ich angefangen an meiner LB weiterzuarbeiten, ich woltle mein Backend fertig machen, jedoch habe ich es ein wenig unterschätzt, denn ich habe es nicht fertig geschafft. Aber davor habe ich noch gemerkt, das es das letze mal dieser Lernperiode ist, deshalb habe ich noch die Delete Option eingefügt, somit ist meine To-Do-Liste komplett. (87 Wörter)
+
+
+## Zusammenfassung
+In dieser Lernperiode habe ich mich hauptsächlich mit Python auseinandergesetzt und viel neues gelernt, ich freue mich schon auf das nächste mal, wenn ich Python benutzen muss.
+Ich habe einen Taschenrechner und eine To-Do-Liste programmiert.

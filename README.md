@@ -32,5 +32,5 @@ Was wäre ein geeignetes Projekt für diese LP7? Würde sich dieses auch eignen,
 
 ## 31.01.2025
 - [X] To-Do-Liste alle Aufgaben anzeigen lassen
-- [ ] To-Do-Liste bearbeitungs Option implementieren
+- [X] To-Do-Liste bearbeitungs Option implementieren
 - [ ] In der LB von M295 arbeiten und zwar Mein Backend fertig implementieren

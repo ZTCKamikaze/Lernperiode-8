@@ -34,3 +34,5 @@ Was wäre ein geeignetes Projekt für diese LP7? Würde sich dieses auch eignen,
 - [X] To-Do-Liste alle Aufgaben anzeigen lassen
 - [X] To-Do-Liste bearbeitungs Option implementieren
 - [ ] In der LB von M295 arbeiten und zwar Mein Backend fertig implementieren
+
+✍️ Heute habe ich an meiner To-Do-Liste weitergearbeitet, und zwar habe ich die Funktion alle Tasks zu sehen hinzugefügt, dazu habe ich auch noch die Option hinzugefügt, wie ich eine Aufgabe bearbeiten kann. Danach habe ich angefangen an meiner LB weiterzuarbeiten, ich woltle mein Backend fertig machen, jedoch habe ich es ein wenig unterschätzt, denn ich habe es nicht fertig geschafft. (60 Wörter)

@@ -43,5 +43,10 @@ In dieser Lernperiode habe ich mich hauptsächlich mit Python auseinandergesetzt
 
 Ich habe einen Taschenrechner und eine To-Do-Liste programmiert.
 
+![image](https://github.com/user-attachments/assets/6a2b4577-a37e-4ebb-bbe8-0282b712cc2c)
+
+![image](https://github.com/user-attachments/assets/2a46b0f2-8a04-4493-980c-ddb07ea51de0)
+
+
 # Nächstes Projekt
 Als nächstes Projekt möchte ich 

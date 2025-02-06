@@ -38,6 +38,10 @@ Was wäre ein geeignetes Projekt für diese LP7? Würde sich dieses auch eignen,
 ✍️ Heute habe ich an meiner To-Do-Liste weitergearbeitet, und zwar habe ich die Funktion alle Tasks zu sehen hinzugefügt, dazu habe ich auch noch die Option hinzugefügt, wie ich eine Aufgabe bearbeiten kann. Danach habe ich angefangen an meiner LB weiterzuarbeiten, ich woltle mein Backend fertig machen, jedoch habe ich es ein wenig unterschätzt, denn ich habe es nicht fertig geschafft. Aber davor habe ich noch gemerkt, das es das letze mal dieser Lernperiode ist, deshalb habe ich noch die Delete Option eingefügt, somit ist meine To-Do-Liste komplett. (87 Wörter)
 
 
-## Zusammenfassung
-In dieser Lernperiode habe ich mich hauptsächlich mit Python auseinandergesetzt und viel neues gelernt, ich freue mich schon auf das nächste mal, wenn ich Python benutzen muss.
+## Reflexion
+In dieser Lernperiode habe ich mich hauptsächlich mit Python auseinandergesetzt und viel neues gelernt, wie zum Beispiel ich Formen mit import turtle bilden kann und auch wie ich einen Taschenrechner mit den Grundlegenden Rechnungen programmieren kann. Das schwerste, aber auch am spannensten war es die To-Do-Liste zu programmieren, dabei habe ich viele neue Dinge über Python gelernt und es hat mir sehr viel Spass gemacht.
+
 Ich habe einen Taschenrechner und eine To-Do-Liste programmiert.
+
+# Nächstes Projekt
+Als nächstes Projekt möchte ich 
